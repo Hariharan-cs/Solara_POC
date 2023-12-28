@@ -2,26 +2,26 @@
 
 **For first time**
 
-python3 -m venv solara-env
+1. python3 -m venv solara-env
 
-pip install solara
+2. pip install solara
 
-source solar-env/bin/activate
+3. source solar-env/bin/activate
 
-solara run ./multipage-demo
+4. solara run ./multipage-demo
 
 
 
 
 **For upcoming run**
 
-source solar-env/bin/activate
+1. source solar-env/bin/activate
 
-solara run ./multipage-demo
+2. solara run ./multipage-demo
 
 
 
 
 **Kill port if required**
 
-kill -9 $(lsof -ti:8765)
+1. kill -9 $(lsof -ti:8765)
