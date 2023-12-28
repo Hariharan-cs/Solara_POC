@@ -1,5 +1,7 @@
 **Steps to run the project**
 
+Clone the project and go inside the project file called **Solara_POC**
+
 **For first time**
 
 1. python3 -m venv solara-env
