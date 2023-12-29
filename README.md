@@ -8,7 +8,7 @@ Clone the project and go inside the project file called **Solara_POC**
 
 2. pip install solara
 
-3. source solar-env/bin/activate
+3. source solara-env/bin/activate
 
 4. solara run ./multipage-demo
 
