@@ -1,4 +1,7 @@
-import solara
+from solara import *
+# from solara.alias import rv
+# import reacton.ipyvuetify as rv
+
 
 clicks = solara.reactive(0)
 

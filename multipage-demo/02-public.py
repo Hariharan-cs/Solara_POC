@@ -1,5 +1,6 @@
-import solara
+from solara import *
 from solara.alias import rv
+import reacton.ipyvuetify as rv
 
 # create class
 class Person:
@@ -34,3 +35,13 @@ def MarkdownEditor():
 
 # # create an alias of the Markdown Editor component so Solara can find it
 Page = MarkdownEditor
+
+
+
+# Compare based on
+# 1. Multi user session variables and values handing ----
+# 2. Building multi page application ---
+# 3. Maintaining the state of the page while toggling between the pages ---
+# 4. Performance while handing multi users ----
+# 5. Make it work with nginx 
+# 6. Ease of development - this is highest priority ---
