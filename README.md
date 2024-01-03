@@ -10,7 +10,9 @@ Clone the project and go inside the project file called **Solara_POC**
 
 3. pip install -r requirements.txt
 
-4. solara run ./multipage-demo
+4. export OPENAI_API_KEY=OPENAI_API_KEY
+
+5. solara run ./multipage-demo
 
 
 
